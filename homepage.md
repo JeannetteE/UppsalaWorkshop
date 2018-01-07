@@ -5,8 +5,8 @@ Introduction to a few "simple" Data Tools - lot´s of exercises, hopefully a few
 ## OpenRefine, Github og VosViewer is the Tools for today
 
 
-1. [Todays agenda](program.html)
-1. [Preparation and links to tools you need to download](preparation.html)
+1. [Todays agenda](program.md)
+1. [Preparation and links to tools you need to download](preparation.md)
 
 ## Exercises
 1. [OpenRefine - Exercises](Exercises/openrefine_exercise1.html)
