@@ -3,10 +3,10 @@
 One day with introduction to OpenRefine, Github and VosViewer for Librarians at Uppsala University Library prepared, planned and collected by Jeannette Ekstrøm, DTU Library - [jeek@dtu.dk](mailto:jeek@dtu.dk)
 
 1. [Homepage](homepage.html)
-1. [Program](program.html) |
+1. [Program](program.html)
 1. [Preparation](preparation.html)
 
-## In order to create this "teaching material" GitHub Pages have been used
+## GitHub pages have been used in the creating process. And it makes it easier to share for later:)
 
 Feel free to copy or perhaps add improvements for this README file or to the repository in general.
 
