@@ -5,7 +5,7 @@
 - Click at [OpenRefine](http://openrefine.org/download.html)
 - Read the [installation guide](https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions)
 - Choose the version, that matches your computer ( I guess that the Windows Kit suits most of us )
-- [download](https://github.com/OpenRefine/OpenRefine/releases/download/2.7/openrefine-win-2.7.zip) and follow the steps carefully
+- [download](https://github.com/OpenRefine/OpenRefine/releases/download/2.8/openrefine-win-2.8.zip) and follow the steps carefully
 
 ## GitHub og Atom.io
 

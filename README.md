@@ -1,10 +1,10 @@
 # Uppsala University Library - Data Science Workshop
 
-One day with introduction to OpenRefine, Github and VosViewer for Librarians at Uppsala University Library prepared and planned by Jeannette Ekstrøm, DTU Library.[jeek@dtu.dk](mailto:jeek@dtu.dk)
+One day with introduction to OpenRefine, Github and VosViewer for Librarians at Uppsala University Library prepared, planned and collected planned by Jeannette Ekstrøm, DTU Library.[jeek@dtu.dk](mailto:jeek@dtu.dk)
 
 ## In order to create this "teaching material" GitHub Pages have been used
 
-Feel free to copy or perhaps add improvements for this Reame file or to the repository in general.
+Feel free to copy or perhaps add improvements for this README file or to the repository in general.
 
 You can use the [editor on GitHub](https://github.com/JeannetteE/UppsalaWorkshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files. But you can also *Clone* the repo and work on it in an ATOM Editor, and a GitHub Desktop Client.
 
