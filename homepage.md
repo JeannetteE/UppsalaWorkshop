@@ -5,26 +5,25 @@ Introduction to a few "simple" Data Tools - lot´s of exercises, hopefully a few
 ## OpenRefine, Github og VosViewer is the Tools for today
 
 
-1. <a href="program.html">Dagens program</a>
-1. <a href="preparation.html">Indledende forberelser og div. tools til download</a>
+1. [Todays agenda](program.html)
+1. [Preparation and links to tools you need to download](preparation.html)
 
 ## Exercises
-1. <a href="Exercises/openrefine_exercise1.html">OpenRefine - exercise</a>
-1. <a href="Exercises/github-exercise2.html">GitHub - exercises</a>
-1. <a href="Exercises/vosviewer-exercise3.html">Vosviewer - exercises</a>
-1.
-<a href="Exercises/VOSviewer_hands-on_opgave.pdf">VosViewer exercise and hands-on from the DEFF ROAI project</a>
-
+1. [OpenRefine - Exercises](Exercises/openrefine_exercise1.html)
+1. [GitHub - Exercises](Exercises/github-exercise2.html)
+1. [VosViewer](Exercises/VOSviewer_hands-on_opgave.pdf) borrowed by permission from colleagues in #DEFF ROAI project
+1. [Extra Vosviewer Exercise](Exercises/vosviewer-exercise3.html) if needed
 
 ## files/dataset for the exercises
-1. <a href="Dataset/openrefine_authors-people.csv">OpenRefine dataset to download</a>
 
-1. VoSViewer dataset to download
+1. [OpenRefine Dataset](Dataset/openrefine-authors-people.csv)
 
-   1. <a href="Dataset/Bibliometric1-500.txt">Bibliometric 1-500 from Web of Science search</a>
-   1. <a href="Dataset/Bibliometric501-1000.txt">Bibliometric 501-1000 from Web of Science search</a>
-   1. <a href="Dataset/Bibliometric1001-1500.txt">Bibliometric 1001-1500 from Web of Science search</a>
-   1. <a href="Dataset/Bibliometric1501-2000.txt">Bibliometric 1501-2000 from Web of Science search</a>
-   1. <a href="Dataset/Bibliometric2001-2368.txt">Bibliometric 2001-2368 from Web of Science search</a>
+1. VosViewer Dataset from Web of Science
+   1. [Records 1-500](Dataset/Bibliometric1-500.txt)
+   1. [Records 501-1000](Dataset/Bibliometric501-1000.txt)
+   1. [Records 1001-1500](Dataset/Bibliometric1001-1500.txt)
+   1. [Records 1501-2000](Dataset/Bibliometric1501-2000.txt)
+   1. [Records 2001-2368](Dataset/Bibliometric2001-2368.txt)
 
-### Link to <a href="https://github.com/JeannetteE/UppsalaWorkshop">today´s Github repository</a>
+### Link to
+[Our Uppsala university Library Github repository](https://github.com/JeannetteE/UppsalaWorkshop)
