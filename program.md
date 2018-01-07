@@ -27,13 +27,13 @@ Senior Information Officer at DTU Library<br>
 
 
 
-### Tools to [download](preparation.html)
+### Tools to [download](preparation.md)
 ### Exercises to go through
 
-1. [OpenRefine](Exercises/openrefine_exercise1.html) thanks to Thomas Padilla for inspiration
-1. [GitHub](Exercises/github-exercise2.html)
+1. [OpenRefine](Exercises/openrefine_exercise1.md) thanks to Thomas Padilla for inspiration
+1. [GitHub](Exercises/github-exercise2.md)
 1. [VosViewer](Exercises/VOSviewer_hands-on_opgave.pdf) borrowed by permission from colleagues in #DEFF ROAI project
-1. [Extra Vosviewer Exercise](Exercises/vosviewer-exercise3.html) if needed
+1. [Extra Vosviewer Exercise](Exercises/vosviewer-exercise3.md) if needed
 
 
 ### Link to Dataset

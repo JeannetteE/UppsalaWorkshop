@@ -54,7 +54,7 @@ eller andres [opskrifter og erfaringer](https://github.com/OpenRefine/OpenRefine
 
 1. klik på UNDO/RESET - og vælg [ Extract ]
 - to sider popper op, og I klikker CTRL+A og CTRL+C og åbner en Notepad og klipper KODEN ind CTRL+V
-- gem til senere, når vi gentager processen med samme *.csv fil
+- gem til senere, når vi gentager processen med samme __*.csv fil__
 
 
 ### Eksporter vores dokument

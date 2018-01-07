@@ -9,10 +9,10 @@ Introduction to a few "simple" Data Tools - lot´s of exercises, hopefully a few
 1. [Preparation and links to tools you need to download](preparation.md)
 
 ## Exercises
-1. [OpenRefine - Exercises](Exercises/openrefine_exercise1.html)
-1. [GitHub - Exercises](Exercises/github-exercise2.html)
+1. [OpenRefine - Exercises](Exercises/openrefine_exercise1.md)
+1. [GitHub - Exercises](Exercises/github-exercise2.md)
 1. [VosViewer](Exercises/VOSviewer_hands-on_opgave.pdf) borrowed by permission from colleagues in #DEFF ROAI project
-1. [Extra Vosviewer Exercise](Exercises/vosviewer-exercise3.html) if needed
+1. [Extra Vosviewer Exercise](Exercises/vosviewer-exercise3.md) if needed
 
 ## files/dataset for the exercises
 
