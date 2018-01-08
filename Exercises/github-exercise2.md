@@ -31,3 +31,6 @@
         1. Change and add some new text, a picture og a new file (either via GitHub.com or by using the GitHub desktop client/ATOM editor
         1. **SAVE** ( commit changes ) and create a **Pull request** to the Repository
         1. Jeannette will try to manage to  **accept** your changes little by little (or at least one before the day ends)
+
+1. If there is more time, then work a bit more on the exercises - in order to get more familiar with the tools (__Github and ATOM__) <br>
+E.g. you can chance a few pages, add ekstra documentation for your README file or add more files to your repository. Everything counts :)

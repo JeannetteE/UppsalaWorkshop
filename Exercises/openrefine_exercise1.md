@@ -2,7 +2,7 @@ OpenRefine exercises - with great thanks to Mr. Thomas Padilla, from which inspi
 [http://thomaspadilla.org/dataprep](/http://thomaspadilla.org/dataprep/)
 Datasæt are from [*British Library*](http://www.thomaspadilla.org/data/dataprep/Readme.txt) - we send our gratitude
 
-## Creatae a Project from a known, imported file
+## Create a Project from a known, imported file
 1. Open your **OpenRefine client** in order to do so, click on **[Create Project]**
 
 1. Download the data [openrefine_authors-people.csv](openrefine_authors-people.csv) - and remember where you save it on your computer.
@@ -25,46 +25,47 @@ Perhaps you like to investigate, which authors there is (overview), perhaps you 
 
 ### Filtrering the data
 
-Each column contains a *'text filter'* option. funktion. A **'text filter'** is useful for identifying similar Data content
-- will provide you with information on, whether the data are correct, alike and valide (registered in the same way )
+Each column contains a *'text filter'* option. The **'text filter'** is useful for identifying entries similar Data content
+- and will provide you with information on, whether the data are correct, similar and/or valid (registered in the same way )
 
-1. eksempelvis kan man editere ukorrekte poster een for een, eller i clusters
-- vi tager hul på edit
-- vi tager hul på cluster
-( både publisher kolonne, samt årstal og sted for udgivelse renses op )
+1. For instanse you can easily edit in-correct entries/records one by one, or as clusters
 
-se evt. mere via [GitHub vejlednings siden](https://github.com/OpenRefine/OpenRefine/wiki/Clustering-In-Depth)
+- we begin with **edit**
+- and then continue with **cluster**
+( both for the *publisher column*, *year* and *place of publication* )
 
-### Transformér data
+See more in the [GitHub guide](https://github.com/OpenRefine/OpenRefine/wiki/Clustering-In-Depth)
 
-Kan ske enten som ovenfor, via enkelte ændringer i konkrete poster, eller man kan anvende et kommando "SPROG" kaldet GREL ( Google Refine Expression Language ).
-I dag skal vi blot tjekke tegn fra forfatterfeltet, som forstyrrer - herunder et punktum, blanktegn..
+### Transform data
 
-1. gå tilbage til jeres projekt
-1. vælg kolonnen [ Author ] -> vælg [ EDIT CELLS ] og dernæst [Transform]
-- et vindue popper op
-1. klik følgende kommando ind **value.replace('.', ' ')**
-- det betyder, at alle punktummer erstattes af et blankt tegn = ingenting ( en form for **søg og erstat**, men blot udtrykt i GREL kommando )
+Can be done the same way as **filtering** - but OpenRefine uses a command *language* called GREL ( Google Refine Expression Language ).
+We will not work too much on the *language* but use **simple commands** to *clean up basic irregularities* from the entries like __blank signs, punctuation and the like__ (to start with from the *author field* )
 
-GREL er et sprog for sig, som kræver mere af os end vi kommer til at nå i dag, men når vi skal lege mere med dette senere hen
-så kan man med fordel finde hjælp via gode sider som [https://github.com/OpenRefine/OpenRefine/wiki/Understanding-Regular-Expressions](https://github.com/OpenRefine/OpenRefine/wiki/Understanding-Regular-Expressions)
-eller andres [opskrifter og erfaringer](https://github.com/OpenRefine/OpenRefine/wiki/Recipes)
+1. Return to OpenRefine and your project
+1. Choose the column __[ Author ]__ -> choose __[ EDIT CELLS ]__ and then click on __[Transform]__
+- a new window opens
+1. Then add the command **value.replace('.', ' ')**
+- this command means, that every punctuation will be replaced with a blank = nothing ( similar to **search and replace** known from Excel, but now expressed in a GREL command )
 
-### gem vores **KODE** som en json fil til en anden gang..
+GREL is a *bit* more advanced, and demands more in depth knowledge than this workshop will cover, but for later please have a look at [https://github.com/OpenRefine/OpenRefine/wiki/Understanding-Regular-Expressions](https://github.com/OpenRefine/OpenRefine/wiki/Understanding-Regular-Expressions)
+or other [recipes and experiences](https://github.com/OpenRefine/OpenRefine/wiki/Recipes)
 
-1. klik på UNDO/RESET - og vælg [ Extract ]
-- to sider popper op, og I klikker CTRL+A og CTRL+C og åbner en Notepad og klipper KODEN ind CTRL+V
-- gem til senere, når vi gentager processen med samme __*.csv fil__
+1. Try working with __Edit__, __Cluster clean up__ and __Transform data__ in your own pace.
+
+### Save the generated **CODE** as a json file for later / reuse.
+
+1. Click on __UNDO/RESET__ - and choose [ Extract ]
+- two pages appears, You have to mark is (*cut and paste*) with __CTRL+A and CTRL+C__ - then open an Editor __Notepad or ATOM__ and paste the CODEN in __CTRL+V__
+- Save it for later, because we will re-do the whole process once more with the same __*.csv fil__
 
 
-### Eksporter vores dokument
+### Eksport the final **cleaned** dokument
 
-1. fjern alle filtre, klik på EXPORT i øverste højre hjørne ( vælg .excel og åbn i excel for at se dokumentet heri.. )
-- forsøg evt. at lave "søg og erstat" på årstal i dokumentet via excel..
+1. Remove all the used filters, Click at **EXPORT** in the top right corner ( choose __*.excel__ and open your *EXCEL* to see how the document looks like )
 
-### Forfra ...
 
-1. åben filen igen - og opret et nyt projekt, følg de få trin og VOILA ( tilbage til start... )
-1. klip fra Notepad den KODE ind via UNDO/REDO -> APPLY og [ Perform Operations ]
+### Starting OVER ...
 
-#### Er der mere tid, så kan I foretage samme tjek af en fil med PhD afhandlinger fra DTU ORBIT/PURE
+1. Open the file once more - create a new project, follow the few steps and VOILA ( your dataset is ready to start over ... )
+1. Cut and paste from your editor __Notepad or ATOM__ the json CODE you generated and place it via __UNDO/REDO__ -> __APPLY__ og __[ Perform Operations ]__
+1. then everything happens __*Automatically*__ :)

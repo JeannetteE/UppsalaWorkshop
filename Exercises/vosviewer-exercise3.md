@@ -1,20 +1,22 @@
-## Vosviewer opgaver
+## Vosviewer Bonus assignments
 
-I skal selv finde jeres datasæt :)
+You need to search for the data you like to look at - it could be a topic you know well, then the visualization might be easier to understand and work with.
 
-### fra Web of Science til VosViewer
+### from Web of Science to VosViewer
 
-1. vælg WoS Core Collection og foretag en søgning på Open Access artikler fra DTU
+1. Choose WoS Core Collection and perform a search of your choice - could be **Open Access articles from Uppsala University** from 2010-2018
 
-1. Gem søgningen - anvend *Full Record and Cited References option*  
-- VosViewer kan bruge gemte filer gemt som både **plain text** og **tab-delimited format**. Ifølge flere vejledninger anbefales **tab-delimited format**
-1. En *savedrecs.txt* fil downloades og den kan I gemme som **DTU-OA.txt** og arbejde videre med
+1. Save the search as *Full Record and Cited References option*  
+- VosViewer works with saved files in **plain text** and **tab-delimited format**.
+According to some guidelines **tab-delimited format** is to prefer
 
-1. Åben VosViewer og *create MAP* m. resultatet fra søgesættet - vælg nr. 2 ud af tre mulige maps.
-- prøv at sætte lidt forskellige parametre, lidt forskellige farver på - og gem til sidst resultatet
+1. Then download the *savedrecs.txt* file and save it for later.
+Remember that WoS only allows to *download 500 records* at the time, therefore you might need to save in several files.
 
-1. foretag endnu en søgning efter eget valg - evt i Scopus, og gentag proceduren, nu blot ved at *create map* nr. 3
-- og følg vejen til en visualisering..
-1.Gem resultatet via SAVE knappen..
+1. Open VosViewer and *create a MAP* with the results (multiple files works too) - chooose the second option (out of three possible maps)
+- Try some of the different parameters, add different colors and finally save the results
 
-1. Opload måske filen til dit Github repository, bare fordi du kan:)
+1. Perform a similar search - from Scopus, and repeat the procedure, but by *creating map number 3*
+- and follow the path to a nice visualization..
+
+1. __SAVE__ the result and upload the file to your Github repository, just because you can :)
