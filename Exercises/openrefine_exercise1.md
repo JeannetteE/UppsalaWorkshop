@@ -1,6 +1,6 @@
-OpenRefine exercises - with great thanks to Mr. Thomas Padilla, from which inspiration to the  course material is coming
+OpenRefine exercises - with great thanks to Mr. Thomas Padilla, from where the inspiration to the  course material is coming
 [http://thomaspadilla.org/dataprep](http://thomaspadilla.org/dataprep/)
-Datasæt are from [*British Library*](http://www.thomaspadilla.org/data/dataprep/Readme.txt) - we send our gratitude
+Dataset are from [*British Library*](http://www.thomaspadilla.org/data/dataprep/Readme.txt) - we send them our gratitude
 
 ## Create a Project from a known, imported file
 1. Open your **OpenRefine client** in order to do so, click on **[Create Project]**
@@ -20,7 +20,7 @@ Perhaps you like to investigate, which authors there is (overview), perhaps you 
 
 1. Then try to click on **Facet by 'count'** to the left > Observe the amount of hits/records from the publisher *Titan*
 
-1. Next step can be clicking at **Facet by 'name'** *next to facet by count* - > Scoll down to *Titan* > Observe the many different representations of the publisher *Titan*
+1. Next step can be clicking at **Facet by 'name'** *next to facet by count* - > scroll down to *Titan* > Observe the many different representations of the publisher *Titan*
 
 
 ### Filtrering the data
@@ -28,7 +28,7 @@ Perhaps you like to investigate, which authors there is (overview), perhaps you 
 Each column contains a *'text filter'* option. The **'text filter'** is useful for identifying entries similar Data content
 - and will provide you with information on, whether the data are correct, similar and/or valid (registered in the same way )
 
-1. For instanse you can easily edit in-correct entries/records one by one, or as clusters
+1. For instance you can easily edit in-correct entries/records one by one, or as clusters
 
 - we begin with **edit**
 - and then continue with **cluster**
@@ -56,10 +56,11 @@ or other [recipes and experiences](https://github.com/OpenRefine/OpenRefine/wiki
 
 1. Click on __UNDO/RESET__ - and choose [ Extract ]
 - two pages appears, You have to mark is (*cut and paste*) with __CTRL+A and CTRL+C__ - then open an Editor __Notepad or ATOM__ and paste the CODEN in __CTRL+V__
+
 - Save it for later, because we will re-do the whole process once more with the same __*.csv fil__
 
 
-### Eksport the final **cleaned** dokument
+### Export the final **cleaned** document
 
 1. Remove all the used filters, Click at **EXPORT** in the top right corner ( choose __*.excel__ and open your *EXCEL* to see how the document looks like )
 
