@@ -1,11 +1,11 @@
 OpenRefine exercises - with great thanks to Mr. Thomas Padilla, from which inspiration to the  course material is coming
-[http://thomaspadilla.org/dataprep](/http://thomaspadilla.org/dataprep/)
+[http://thomaspadilla.org/dataprep](http://thomaspadilla.org/dataprep/)
 Datasæt are from [*British Library*](http://www.thomaspadilla.org/data/dataprep/Readme.txt) - we send our gratitude
 
 ## Create a Project from a known, imported file
 1. Open your **OpenRefine client** in order to do so, click on **[Create Project]**
 
-1. Download the data [openrefine_authors-people.csv](openrefine_authors-people.csv) - and remember where you save it on your computer.
+1. Download the data [openrefine_authors-people.csv](Exercises/openrefine_authors-people.csv) - and remember where you save it on your computer.
 - Get the file & name your project
 - Then click **[Next]** and the project is being created, incl all the data/fields/information, already *hidden* in the __*.csv filen__
 
