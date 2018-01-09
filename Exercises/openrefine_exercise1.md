@@ -5,7 +5,7 @@ Datasæt are from [*British Library*](http://www.thomaspadilla.org/data/dataprep
 ## Create a Project from a known, imported file
 1. Open your **OpenRefine client** in order to do so, click on **[Create Project]**
 
-1. Download the data [openrefine_authors-people.csv](Dataset/openrefine_authors-people.csv) - and remember where you save it on your computer.
+1. Download the data [openrefine_authors-people.csv](../Dataset/openrefine_authors-people.csv) - and remember where you save it on your computer.
 - Get the file & name your project
 - Then click **[Next]** and the project is being created, incl all the data/fields/information, already *hidden* in the __*.csv filen__
 
